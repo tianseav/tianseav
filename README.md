@@ -3,12 +3,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=2D3436&center=true&vCenter=true&width=500&lines=Full-stack+System+Architect;Startup+Founder+Mindset;Building+Scalable+SaaS+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=2D3436&center=true&vCenter=true&width=500&lines=Building+Scalable+SaaS+Solutions;Full-stack+System+Architect;Startup+Founder+Mindset" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PREMIUM-BUILDER-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TECH-ENTREPRENEUR-black?style=for-the-badge" />
+  <a href="#-about-me">
+    <img src="https://img.shields.io/badge/-Strategy-000000?style=for-the-badge" />
+  </a>
+  <a href="#-tech-stack">
+    <img src="https://img.shields.io/badge/-Engineering-000000?style=for-the-badge" />
+  </a>
+  <a href="#-current-focus">
+    <img src="https://img.shields.io/badge/-Growth-000000?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -23,7 +30,7 @@ I operate at the intersection of **business logic** and **high-performance engin
 
 ---
 
-### 🛠 Tech & Creative Ecosystem
+### 🛠 Tech Ecosystem
 
 <table align="center" style="border: none;">
   <tr>
@@ -36,10 +43,8 @@ I operate at the intersection of **business logic** and **high-performance engin
       <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=light" />
     </td>
     <td align="center" width="33%">
-      <b>Creative & Tools</b><br>
-      <img src="https://skillicons.dev/icons?i=figma,canva,apple,git&theme=light" />
-      <br>
-      <i>Specialist: CapCut Video Engineering</i>
+      <b>Product Design</b><br>
+      <img src="https://skillicons.dev/icons?i=figma,canva&theme=light" />
     </td>
   </tr>
 </table>
@@ -51,7 +56,6 @@ I operate at the intersection of **business logic** and **high-performance engin
 
 - [x] **Secure Infrastructure:** Local MongoDB Replica Set deployment and hardening.
 - [ ] **SaaS Foundation:** Developing a secure, encrypted credential management platform.
-- [ ] **Creative Direction:** Integrating high-quality video (CapCut) for product storytelling.
 - [ ] **AI Integration:** Implementing predictive analytics for decision-support systems.
 
 ---
@@ -67,10 +71,6 @@ When I’m away from the keyboard, I’m on **inline skates**. There’s a certa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tianseav&layout=compact&theme=transparent&title_color=000000&text_color=444444&hide_border=true" width="40%" />
 </p>
 
-<p align="center">
-  <i>Note: Analytics based on active repository contributions and language distribution.</i>
-</p>
-
 ---
 
 ### 📡 Terminal Access
@@ -81,6 +81,10 @@ When I’m away from the keyboard, I’m on **inline skates**. There’s a certa
   <a href="https://linkedin.com/in/tianseav">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Quote" />
 </p>
 
 ---
